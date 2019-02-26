@@ -1,0 +1,603 @@
+fileFormatVersion: 2
+guid: fd67d985a7b9a2a45837cbf19bdb8b32
+timeCreated: 1538900130
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: testsprites_0
+    21300002: testsprites_1
+    21300004: testsprites_2
+    21300006: testsprites_3
+    21300008: testsprites_4
+    21300010: testsprites_5
+    21300012: testsprites_6
+    21300014: testsprites_7
+    21300016: testsprites_8
+    21300018: testsprites_9
+    21300020: testsprites_10
+    21300022: testsprites_11
+    21300024: testsprites_12
+    21300026: testsprites_13
+    21300028: testsprites_14
+    21300030: testsprites_15
+    21300032: testsprites_16
+    21300034: testsprites_17
+    21300036: testsprites_18
+    21300038: testsprites_19
+    21300040: testsprites_20
+    21300042: testsprites_21
+    21300044: testsprites_22
+    21300046: testsprites_23
+    21300048: testsprites_24
+    21300050: testsprites_25
+    21300052: testsprites_26
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: testsprites_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1050
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 75}
+        - {x: -46, y: 67}
+        - {x: -46, y: -75}
+        - {x: 32, y: -75}
+        - {x: 38, y: -4}
+        - {x: 38, y: 75}
+      - - {x: 8, y: -75}
+        - {x: 7, y: -72}
+        - {x: 3, y: -72}
+        - {x: 2, y: -75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 75}
+        - {x: -39, y: 68}
+        - {x: -57, y: 24}
+        - {x: -57, y: -32}
+        - {x: -39, y: -75}
+        - {x: 39, y: -75}
+        - {x: 39, y: 64}
+        - {x: 26, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_3
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 900
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 75}
+        - {x: -44, y: 73}
+        - {x: -44, y: -60}
+        - {x: -40, y: -75}
+        - {x: 18, y: -75}
+        - {x: 41, y: -69}
+        - {x: 62, y: 21}
+        - {x: 62, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: -67}
+        - {x: -44, y: -75}
+        - {x: 1, y: -75}
+        - {x: 40, y: -59}
+        - {x: 40, y: 75}
+        - {x: -29, y: 75}
+        - {x: -45, y: 69}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_5
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 75}
+        - {x: -11, y: 74}
+        - {x: -9, y: 70}
+        - {x: -34, y: 60}
+        - {x: -43, y: 48}
+        - {x: -43, y: -75}
+        - {x: 46, y: -75}
+        - {x: 46, y: 53}
+        - {x: 40, y: 75}
+      - - {x: 2, y: -75}
+        - {x: 5, y: -74}
+        - {x: 5, y: -71}
+        - {x: 2, y: -70}
+        - {x: 0, y: -72}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 75}
+        - {x: -51, y: 57}
+        - {x: -62, y: 33}
+        - {x: -62, y: -14}
+        - {x: -19, y: -75}
+        - {x: 43, y: -75}
+        - {x: 57, y: -31}
+        - {x: 57, y: 37}
+        - {x: 47, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 750
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 75}
+        - {x: -43, y: 66}
+        - {x: -43, y: -75}
+        - {x: 49, y: -75}
+        - {x: 49, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 75}
+        - {x: -57, y: 56}
+        - {x: -57, y: -75}
+        - {x: 18, y: -75}
+        - {x: 53, y: -62}
+        - {x: 53, y: 64}
+        - {x: 44, y: 75}
+      - - {x: -8, y: -73}
+        - {x: -8, y: -75}
+        - {x: 25, y: -75}
+        - {x: 25, y: -73}
+        - {x: 23, y: -71}
+        - {x: -6, y: -71}
+      - - {x: -42, y: 75}
+        - {x: -41, y: 72}
+        - {x: -35, y: 71}
+        - {x: -27, y: 71}
+        - {x: -22, y: 72}
+        - {x: -20, y: 74}
+        - {x: -20, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 75}
+        - {x: -38, y: 49}
+        - {x: -59, y: -9}
+        - {x: -59, y: -39}
+        - {x: -38, y: -47}
+        - {x: -15, y: -51}
+        - {x: -9, y: -75}
+        - {x: 45, y: -75}
+        - {x: 52, y: -66}
+        - {x: 52, y: 75}
+      - - {x: -40, y: 75}
+        - {x: -39, y: 72}
+        - {x: -30, y: 71}
+        - {x: -11, y: 71}
+        - {x: -8, y: 72}
+        - {x: -8, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 601
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 75}
+        - {x: -48, y: 75}
+        - {x: -54, y: 67}
+        - {x: -54, y: -43}
+        - {x: -28, y: -75}
+        - {x: 8, y: -75}
+        - {x: 23, y: -62}
+        - {x: 63, y: 9}
+        - {x: 63, y: 35}
+        - {x: 47, y: 74}
+      - - {x: -55, y: 67}
+        - {x: -52, y: 68}
+        - {x: -52, y: 71}
+        - {x: -55, y: 72}
+        - {x: -57, y: 70}
+      - - {x: 41, y: 73}
+        - {x: 42, y: 70}
+        - {x: 49, y: 70}
+        - {x: 51, y: 72}
+        - {x: 50, y: 75}
+        - {x: 43, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_11
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 600
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 75}
+        - {x: 3, y: 75}
+        - {x: 3, y: 72}
+        - {x: -36, y: 45}
+        - {x: -36, y: -22}
+        - {x: -10, y: -75}
+        - {x: 18, y: -75}
+        - {x: 39, y: -59}
+        - {x: 47, y: -24}
+        - {x: 47, y: 67}
+      - - {x: -35, y: 75}
+        - {x: -35, y: 73}
+        - {x: -34, y: 71}
+        - {x: -11, y: 71}
+        - {x: -10, y: 74}
+        - {x: -10, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 75}
+        - {x: -57, y: 59}
+        - {x: -57, y: 2}
+        - {x: -55, y: 1}
+        - {x: -57, y: -8}
+        - {x: -57, y: -75}
+        - {x: 66, y: -75}
+        - {x: 67, y: -70}
+        - {x: 67, y: 45}
+        - {x: 42, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_13
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 450
+        width: 164
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56, y: 75}
+        - {x: -32, y: 75}
+        - {x: -62, y: 36}
+        - {x: -62, y: -75}
+        - {x: 34, y: -75}
+        - {x: 31.511505, y: 19.518433}
+        - {x: 82, y: 15}
+        - {x: 82, y: 68}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 75}
+        - {x: -49, y: 69}
+        - {x: -49, y: -75}
+        - {x: 31, y: -75}
+        - {x: 61, y: 7}
+        - {x: 61, y: 34}
+        - {x: 46, y: 75}
+      - - {x: -37, y: 75}
+        - {x: -37, y: 73}
+        - {x: -35, y: 71}
+        - {x: -27, y: 71}
+        - {x: -25, y: 73}
+        - {x: -25, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_17
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 65}
+        - {x: -69, y: -38}
+        - {x: -69, y: -73}
+        - {x: -66, y: -75}
+        - {x: 22, y: -75}
+        - {x: 22, y: 56}
+        - {x: 10, y: 65}
+      - - {x: 72, y: -62}
+        - {x: 74, y: -64}
+        - {x: 75, y: -64}
+        - {x: 75, y: -56}
+        - {x: 72, y: -57}
+      - - {x: 30, y: 75}
+        - {x: 31, y: 72}
+        - {x: 35, y: 71}
+        - {x: 40, y: 71}
+        - {x: 41, y: 73}
+        - {x: 41, y: 75}
+      - - {x: 19, y: 75}
+        - {x: 20, y: 72}
+        - {x: 28, y: 72}
+        - {x: 30, y: 73}
+        - {x: 30, y: 75}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 300
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 59}
+        - {x: -75, y: 5}
+        - {x: -75, y: -75}
+        - {x: 51, y: -75}
+        - {x: 75, y: 6}
+        - {x: 75, y: 49}
+        - {x: 55, y: 59}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 67}
+        - {x: -15, y: 35}
+        - {x: -20, y: 22}
+        - {x: -14, y: -27}
+        - {x: -41, y: -55}
+        - {x: -41, y: -63}
+        - {x: -35, y: -75}
+        - {x: 39, y: -75}
+        - {x: 45, y: -38}
+        - {x: 45, y: 26}
+        - {x: 34, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_21
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 58}
+        - {x: 13, y: 58}
+        - {x: -14, y: 43}
+        - {x: -52, y: -21}
+        - {x: -52, y: -59}
+        - {x: -20, y: -75}
+        - {x: 32, y: -75}
+        - {x: 60, y: -39}
+        - {x: 60, y: 19}
+        - {x: 46, y: 48}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 70}
+        - {x: -2, y: 70}
+        - {x: -45, y: 51}
+        - {x: -45, y: -27}
+        - {x: -27, y: -75}
+        - {x: 6, y: -75}
+        - {x: 51, y: -31}
+        - {x: 51, y: 35}
+        - {x: 46, y: 65}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: testsprites_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 150
+        width: 150
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 75}
+        - {x: -56, y: 75}
+        - {x: -56, y: -75}
+        - {x: 3, y: -75}
+        - {x: 65, y: 39}
+        - {x: 65, y: 63}
+        - {x: 46, y: 66}
+      - - {x: -6, y: -21}
+        - {x: -8, y: -22}
+        - {x: -8, y: -26}
+        - {x: -6, y: -29}
+        - {x: -4, y: -29}
+        - {x: -1, y: -26}
+        - {x: -1, y: -23}
+        - {x: -2, y: -21}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
